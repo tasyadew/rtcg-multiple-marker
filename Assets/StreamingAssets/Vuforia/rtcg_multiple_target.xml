@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="scissor" size="3.000000 4.198740" />
+    <ImageTarget name="paper" size="3.000000 4.198740" />
+    <ImageTarget name="stone" size="3.000000 4.198740" />
+  </Tracking>
+</QCARConfig>
